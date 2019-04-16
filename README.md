@@ -36,3 +36,12 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
    - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_csv.ipynb) --> Use csv data format
    - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_chrome.ipynb) --> Use website data format
 
+## Prerequisites
+- python3.5
+- [selenium](https://selenium-python.readthedocs.io/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [matplotlib](https://matplotlib.org/)
+
+or i recommend to use [google colab](https://colab.research.google.com/)
+
+
