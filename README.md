@@ -42,6 +42,10 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 - [wordcloud](https://pypi.org/project/wordcloud/)
 - [matplotlib](https://matplotlib.org/)
 
-or i recommend to use [google colab](https://colab.research.google.com/)
+or 
+
+**i highly recommend to use** [google colab](https://colab.research.google.com/)
+
+Just **download jupyter notebook** and **move to your google drive** and **Open with Colaboratory**
 
 
