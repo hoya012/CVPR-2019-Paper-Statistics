@@ -17,6 +17,7 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 </p>
 
 # CVPR Paper Keywords statistics
+- [Accepted Paper list](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_poster.csv)
 
 - Most of the top keywords were maintained
    - Image, detection, 3d, object, video, segmentation, adversarial, recognition, visual …
