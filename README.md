@@ -33,6 +33,6 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 
 - The above data can be obtained from a simple jupyter notebook script.
 - I wrote two versions of the code.
-   - `CVPR_paper_statistics_using_csv.ipynb` --> Use csv data format
-   - `CVPR_paper_statistics_using_chrome.ipynb` --> Use website data format
+   - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_csv.ipynb) --> Use csv data format
+   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_chrome.ipynb) --> Use website data format
 
