@@ -1,5 +1,5 @@
 # CVPR-Paper-Statistics
-Statistics and Visualization of acceptance rate, main keyword for the main Computer Vision conference [(CVPR)](http://cvpr2019.thecvf.com/)
+Statistics and Visualization of acceptance rate, main keyword for the main Computer Vision conference [(CVPR 2019)](http://cvpr2019.thecvf.com/)
 
 Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
 
@@ -7,7 +7,7 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
   <img width="600" src="/2019_cvpr/keyword_cloud_title.PNG">
 </p>
 
-# CVPR Acceptance rate (2015~2019)
+# CVPR 2019 Acceptance rate (2015~2019)
 
 - The total number of papers is increasing every year and this year has increased significantly!
 - The acceptance rate decreased from 30% to 25%.
