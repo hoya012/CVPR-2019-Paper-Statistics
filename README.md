@@ -16,6 +16,11 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
   <img width="500" src="/2019_cvpr/cvpr_acceptance_rate.PNG">
 </p>
 
+# CVPR 2019 simple paper review(20 papers)
+- [Slide](https://www.slideshare.net/HoseongLee6/2019-cvpr-paperoverview)
+
+
+
 # CVPR Paper Keywords statistics
 - [Accepted Paper list](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_poster.csv)
 
