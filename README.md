@@ -35,7 +35,7 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
   <img width="1000" src="/2019_cvpr/top_keywords_2019+2018.png">
 </p>
 
-# Anaysis and Visualization Code (Jupyter Notebook)
+# Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
 - I wrote two versions of the code.
